@@ -5,8 +5,8 @@ var foodObj, feedTime, feed, addFood;
 function preload()
 {
 	//load images here
-  dogimg = loadImage("images/dogImg.png");
-  dogImg1 = loadImage("images/dogImg1.png")
+  dogimg = loadImage("dogImg.png");
+  dogImg1 = loadImage("dogImg1.png")
 }
 
 function setup() {
